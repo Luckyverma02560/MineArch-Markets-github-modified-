@@ -1,0 +1,11 @@
+# Humanized-by: manual edit
+# Timestamp: 2025-11-26 12:38:31
+# Note: Dev diary: tweaking this area mentally — kept code untouched to avoid breaking behavior.
+
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  # Increase this value if you'd like to automatically spin up
+  # more instances in response to increased traffic.
+  maxInstances: 1
